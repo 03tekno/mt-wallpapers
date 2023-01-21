@@ -1,2 +1,2 @@
-# mt-wallpapers package
+# mt-wallpapers
 Wallpapers for Debian based distros
