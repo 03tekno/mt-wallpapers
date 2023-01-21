@@ -1,2 +1,2 @@
-# muslim-backgrounds
-Wallpapers and sound files for Muslim Linux
+# mt-wallpapers
+Wallpapers for Debian based distros
