@@ -1,2 +1,2 @@
 # mt-wallpapers
-Wallpapers for Debian based distros
+Wallpapers for Debian/Devuan based distros 
